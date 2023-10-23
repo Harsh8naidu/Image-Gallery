@@ -1,0 +1,32 @@
+.header {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .search-bar {
+    display: flex;
+  }
+  
+  .search-bar input {
+    padding: 5px;
+    border: none;
+    border-radius: 3px;
+  }
+  
+  .search-bar button {
+    background-color: #0070f3; /* Blue color similar to Apple's website */
+    color: white;
+    border: none;
+    border-radius: 3px;
+    margin-left: 5px;
+  }
+  
